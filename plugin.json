@@ -1,0 +1,30 @@
+{
+  "name": "siyuandateprefix",
+  "author": "zhuxiucai",
+  "url": "https://github.com/zhuxiucai/siyuandateprefix",
+  "version": "0.1.0",
+  "minAppVersion": "3.0.0",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "default": "Date Prefix Refresh",
+    "zh_CN": "日期前缀刷新"
+  },
+  "description": {
+    "default": "Refresh document title YYMMDD prefixes from SiYuan's internal updated field, while always skipping directory/container documents.",
+    "zh_CN": "根据思源内部 updated 字段刷新文档标题 YYMMDD 前缀，并永远跳过目录型文档。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "keywords": [
+    "date",
+    "prefix",
+    "rename",
+    "updated",
+    "日期",
+    "前缀",
+    "重命名"
+  ]
+}

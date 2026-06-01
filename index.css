@@ -1,0 +1,4 @@
+.date-prefix-refresh-dialog { padding: 16px; }
+.date-prefix-refresh-dialog .b3-button { margin: 6px 8px 6px 0; }
+.date-prefix-refresh-result { margin-top: 12px; max-height: 260px; overflow: auto; font-size: 12px; line-height: 1.5; }
+.date-prefix-refresh-result code { white-space: pre-wrap; }
